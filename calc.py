@@ -1,1 +1,7 @@
-def add(x,y):passdef subtract(x,y):passdef multiply(x,y):passdef divide(x,y):
+def add(x,y):
+	pass
+defsubtract(x,y):
+		pass
+	def multiply(x,y):
+			pass
+	defdivide(x,y):
